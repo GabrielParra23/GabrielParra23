@@ -2,7 +2,7 @@
 
 ### Software Developer | AI & Machine Learning Enthusiast
 
-Sou um desenvolvedor focado em construir soluções eficientes e escaláveis. Atualmente, divido meu tempo entre o desenvolvimento profissional e projetos pessoais que exploram o potencial da Inteligência Artificial e análise de dados.
+Sou um desenvolvedor focado em construir soluções eficientes e escaláveis. Atualmente, divido meu tempo entre o desenvolvimento profissional e projetos pessoais que exploram o potencial da Inteligência Artificial e análise de dados dentre outras coisas.
 
 ---
 
