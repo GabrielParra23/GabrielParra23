@@ -5,7 +5,7 @@
 Sou um desenvolvedor focado em construir soluções eficientes e escaláveis. Atualmente, divido meu tempo entre o desenvolvimento profissional e projetos pessoais que exploram o potencial da Inteligência Artificial e análise de dados dentre outras coisas.
 ---
 ## 🐍 Minha Contribuição
-![Snake animation](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GabrielParra23/SEU-GabrielParra23/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
