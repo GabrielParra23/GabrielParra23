@@ -6,7 +6,7 @@ Sou um desenvolvedor focado em construir soluções eficientes e escaláveis. At
 
 ---
 ## 🐍 Minha Contribuição
-![Snake animation](https://github.com/GabrielParra23/SEU-GabrielParra23/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GabrielParra23/GabrielParra23/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
